@@ -1,5 +1,5 @@
 # your domain
-domain: neozhangproxy.heroku.com
+domain: neozhanglist.heroku.com
 port:                 # default 12580
 
 # source list file
